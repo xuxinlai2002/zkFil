@@ -38,9 +38,9 @@ zkFil is practical and efficient. It could deliver data with TBs in theory.
 
 <p align="center"> <img src="img/overview.png"> </p>
 
-- [zkFil-node](https://github.com/xuxinlai2002/zkFil/zkFil-node) Node application written in Golang for sellers (Alice) and buyers (Bob). It deals with communication, smart contract calling, data transferring, and other zkFil protocol interactions.
-- [zkFil-lib](https://github.com/xuxinlai2002/zkFil/zkFil-lib) zkFil core library written in C++ shipping with Golang bindings.
-- [zkFil-contract](https://github.com/xuxinlai2002/zkFil/zkFil-contract) Smart contracts for zkFil *Decentralized Exchange*.
+- [zkFil-node](node/) Node application written in Golang for sellers (Alice) and buyers (Bob). It deals with communication, smart contract calling, data transferring, and other zkFil protocol interactions.
+- [zkFil-lib](lib/) zkFil core library written in C++ shipping with Golang bindings.
+- [zkFil-contract](contract/) Smart contracts for zkFil *Decentralized Exchange*.
 
 ## Workflow and how it works
 
