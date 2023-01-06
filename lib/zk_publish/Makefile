@@ -1,7 +1,3 @@
-#CXX11_HOME = /home/alpha/opt/gcc
-#sudo apt-get install libomp-dev
-#sudo apt-get install libcrypto++-dev
-#sudo apt-get install libboost-all-dev
 
 ifeq ($(OS),Windows_NT)
 	OS_TYPE := Windows

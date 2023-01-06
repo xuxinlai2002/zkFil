@@ -6,20 +6,6 @@ import "./Mimc.sol";
 
 contract zkPoDExchange is Mimc {
 
-    /*
-    ## Bulletin Type
-        - plain
-        - table
-    ## Trade Mode
-        - complaint
-        - atomic-swap
-        - atomic-swap-vc
-        - vrf-query
-    ## Character
-        - Alice
-        - Bob
-    */
-
     struct Bulletin {
         address owner;
         uint64 size;
